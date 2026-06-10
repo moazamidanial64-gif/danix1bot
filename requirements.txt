@@ -1,2 +1,1 @@
-python-telegram-bot==13.15
-yt-dlp
+python-3.10.12
